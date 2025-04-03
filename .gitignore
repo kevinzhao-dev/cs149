@@ -1,0 +1,70 @@
+# C++ build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.app
+objs/
+build/
+bin/
+lib/
+
+# Image files (output files)
+*.ppm
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
+
+# Temporary files
+*.log
+*.tmp
+temp/
+tmp/ 
